@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+<!-- ## Hi there 👋
 **R-Gaurav/R-Gaurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Ramashish Gaurav
+
+Currently a Ph.D. candidate at Virginia Tech, USA. I conduct research in the field of Spiking Networks and Neuromorphic Computing. Do visit my blog at: [https://r-gaurav.github.io/](https://r-gaurav.github.io/). You can call me **Ram** (`a` as in `calm`) -- if my first name is difficult to pronounce. 
+
+To learn more about my research work, please visit [my Google Scholar profile.](https://scholar.google.co.in/citations?user=wcTHd4gAAAAJ&hl=en). 
+
+Thank you for stopping by!
